@@ -52,7 +52,7 @@
 
 * git branch -D <name>强行删除一个没有被合并过的分支
 
-*查看远程库信息，使用git remote -v；
+* 查看远程库信息，使用git remote -v；
 
 * 从本地推送分支，使用git push origin branch-name，如果推送失败，先用git pull抓取远程的新提交；
 
