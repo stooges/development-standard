@@ -1,10 +1,6 @@
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-# Airbnb JavaScript Style Guide() {
+# JavaScript开发规范
 
 **用更合理的方式写 JavaScript**
-
-ES5 的编码规范请查看[版本一](https://github.com/sivan/javascript-style-guide/blob/master/es5/README.md)，[版本二](https://github.com/adamlu/javascript-style-guide)。
 
 翻译自 [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) 。
 
