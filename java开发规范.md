@@ -74,17 +74,17 @@ package语句不换行(即package语句写在一行里)
 ## 命名约定
 命名尽量语义化，让人一眼就能看出类或方法是干什么的，比如根据id查找用户可以用findUserById
 * 类名：首字母大写，大驼峰命名法  例：LoginAction
-	View：视图后缀（页面显示用）
-	Service：服务逻辑类后缀
-	Controller：springMvc的控制类后缀
-	Action：struts2的控制类后缀
-	Util：工具类的后缀
-* 方法名：首字母小写，小驼峰命名法  动词+名词 例：findUserById
-	find：查询前缀
-	update：更新前缀
-	save：保存前缀
-	List：list集合后缀
-	Map：map集合后缀
+   	View：视图后缀（页面显示用）<br/>
+	Service：服务逻辑类后缀<br/>
+	Controller：springMvc的控制类后缀<br/>
+	Action：struts2的控制类后缀<br/>
+	Util：工具类的后缀<br/>
+* 方法名：首字母小写，小驼峰命名法  动词+名词 例：findUserById<br/>
+	find：查询前缀<br/>
+	update：更新前缀<br/>
+	save：保存前缀<br/>
+	List：list集合后缀<br/>
+	Map：map集合后缀<br/>
 		
 
 <a name="practice"></a>
