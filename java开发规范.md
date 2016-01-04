@@ -73,7 +73,7 @@ package语句不换行(即package语句写在一行里)
 
 ## 命名约定
 命名尽量语义化，让人一眼就能看出类或方法是干什么的，比如根据id查找用户可以用findUserById
-* 类名：首字母大写，大驼峰命名法  例：LoginAction
+* 类名：首字母大写，大驼峰命名法  例：LoginAction<br/>
    	View：视图后缀（页面显示用）<br/>
 	Service：服务逻辑类后缀<br/>
 	Controller：springMvc的控制类后缀<br/>
