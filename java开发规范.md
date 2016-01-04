@@ -68,12 +68,23 @@ package语句不换行(即package语句写在一行里)
 
 ### 大括号
   * 对于非空块和块状结构
-
+	大括号与if, else, for, do, while语句一起使用，即使只有一条语句(或是空)，也应该把大括号写上。
 <a name="naming"></a>
 ## 命名约定
-
-  
-大括号与if, else, for, do, while语句一起使用，即使只有一条语句(或是空)，也应该把大括号写上。
+	命名尽量语义化，让人一眼就能看出类或方法是干什么的，比如根据id查找用户可以用findUserById
+	类名：首字母大写，大驼峰命名法  例：LoginAction
+		View：视图后缀（页面显示用）
+		Service：服务逻辑类后缀
+		Controller：springMvc的控制类后缀
+		Action：struts2的控制类后缀
+		Util：工具类的后缀
+	方法名：首字母小写，小驼峰命名法  动词+名词 例：findUserById
+		find：查询前缀
+		update：更新前缀
+		save：保存前缀
+		List：list集合后缀
+		Map：map集合后缀
+		
 
 <a name="practice"></a>
 ## 编程实践
